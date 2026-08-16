@@ -4,7 +4,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5194%2Fegusphere--2025--5419-green)](https://doi.org/10.5194/egusphere-2025-5419)
 [![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5419/)
 
-> **Neuberger et al. (2025)** — *Preprint under review at Atmospheric Chemistry and Physics*
+> **Neuberger et al. (2025)** — *Preprint accepted at Atmospheric Chemistry and Physics*
 > 🔗 https://doi.org/10.5194/egusphere-2025-5419
 
 ---
