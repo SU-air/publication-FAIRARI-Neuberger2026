@@ -28,19 +28,9 @@ Key findings:
 ├── README.md
 ├── LICENSE
 │
-├── data_processing/        # Core analysis scripts
-│   ├── kappa_kohler/       # κ-Köhler hygroscopic growth calculations
-│   ├── microphysics/       # Fog microphysical property processing (ED, CDNC, LWC)
-│   ├── visibility/         # Visibility calculations and hydrated aerosol contributions
-│   └── GFAS/              # GFAS instrument data reading and processing
-│
-├── LES/                    # Large Eddy Simulation (MIMICA) input/output processing
-│   └── ...
-│
-└── figures/                # Scripts to reproduce all figures in the paper
-    ├── figure_01/
-    ├── figure_02/
-    └── ...
+├── figures/Figure7        # Jupyter notebook for figure 7
+├── FAIRARI-Neuberger26.ipynb    # Main Jupyter notebook used to process data
+├── Functions_Neuberger26.py    # Extra functions
 ```
 
 ---
